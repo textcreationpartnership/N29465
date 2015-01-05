@@ -114,9 +114,10 @@
    <text xml:lang="eng">
       <body>
          <div type="resolution">
-            <pb facs="tcp:039235_0000_101808DF1504EF88"/>
-            <pb facs="tcp:039235_0001_101808C20F2E0C20"/>
-            <pb facs="tcp:039235_0002_101808C392EC3530" rendition="simple:additions"/>
+            <pb facs="unknown:039235_0000_101808DF1504EF88"/>
+            <pb facs="unknown:039235_0001_101808C20F2E0C20"/>
+            <pb facs="unknown:039235_0002_101808C392EC3530"
+                rendition="simple:additions"/>
             <head>By the <hi>PRESIDENT and COUNCIL</hi> of His Majeſties Territory and Dominion of <hi>New-England</hi> in AMERICA.</head>
             <p>
                <hi>WHERAS</hi> The <hi>PRESIDENT and COUNCIL</hi> are Informed that Many falſe Repreſentations and Reflections have been made upon what was lately ſpoken &amp; declared by the Preſident in the <hi>Council-Houſe</hi> at <hi>Boſton</hi> when He together with the <hi>Members</hi> of the <hi>Council</hi> did there Shew-forth and publiſh to ſuch of the late <hi>Magiſtrates</hi> and <hi>Deputys</hi> and other <hi>principal Inhabitants</hi> as were then preſent, the <hi>Exemplification of the Judgement of His Majeſty in His High-Court of Chauncery</hi> againſt the late Governour and Company of this Place, as alſo His Majeſties Royal <hi>Commiſſion for the Erecting of the Preſent GOVERNMENT,</hi> They have therefore thought it Expedient that the <hi>PRESIDENT</hi>'s <hi>SPEECH</hi> taken verbatim by <hi>credible</hi> Perſons, be forth-with Printed &amp; Publiſhed.</p>
@@ -136,7 +137,7 @@
             <p>HEre are preſent of His Majeſties <hi>Council,</hi> Several of this place, beſides whom there are <hi>other</hi> Gentlemen whom we have deſired to be here as <hi>Witneſſes</hi> of what we have in Charge to declare unto you.</p>
             <p>And <hi>Firſt,</hi> I muſt aquaint you, that we may take you <hi>now</hi> only for ſuch as you <hi>are,</hi> (viz.) <hi>conſiderable Gentlemen</hi> of this place, &amp; <hi>Inhabitants</hi> of all parts of the Countrey, and <hi>ſo</hi> a <hi>proper</hi> Aſſembly to have His Majeſties Commands Communicated to you, and under <hi>that</hi> Notion we treat with you, we may not deal with you as a <hi>Governour and Company</hi> any more.</p>
             <p>
-               <pb facs="tcp:039235_0003_101808BEA85BF090"/>The <hi>firſt</hi> Thing we notifie to you is the <hi>Exemplification of a Judgement</hi> 
+               <pb facs="unknown:039235_0003_101808BEA85BF090"/>The <hi>firſt</hi> Thing we notifie to you is the <hi>Exemplification of a Judgement</hi> 
                <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap>ntered on His Majeſties behalf, given in His <hi>High Court of Chauncery</hi> againſt <gap reason="illegible: indecipherable" extent="1 letter">
@@ -172,7 +173,7 @@
             </p>
             <p>
                <pb n="3"
-                   facs="tcp:039235_0004_101808E4059B7490"
+                   facs="unknown:039235_0004_101808E4059B7490"
                    rendition="simple:additions"/>
                <hi>Preſ:</hi> I Know no Court here in Being, till the <hi>King</hi>'s Court be in Order and ſetled; and it will incurr the Kings Diſpleaſure ſo to <hi>underſtand</hi> your<g ref="char:EOLhyphen"/>ſelves, and I ſuppoſe what I now ſpeak is the mind of the reſt of the Coun<g ref="char:EOLhyphen"/>cil here preſent.</p>
             <p>
@@ -197,7 +198,7 @@
                   <desc>•</desc>
                </gap>er, as (by His Majeſties Indulgence and Fa<g ref="char:EOLhyphen"/>vour) they need be but <hi>a few,</hi> ſo we aſſure you ſhall with all Care and Pru<g ref="char:EOLhyphen"/>dence be contrived as <hi>plain</hi> and <hi>eaſie</hi> as is poſſible, and we ſhall haſten hum<g ref="char:EOLhyphen"/>bly to lay them at His Moſt Gracious Majeſties Feet for His allowance &amp; Con<g ref="char:EOLhyphen"/>firmation.</p>
             <p>I may not omit to remark unto you in His Majeſties Commiſſion that gra<g ref="char:EOLhyphen"/>cious and favourable Clauſe of <hi>Indulgence in Matters of Religion,</hi> ſo neceſſary for the Peace and Flouriſhing of this place, as alſo <hi>that</hi> of His Command unto His Preſident &amp; Council here, that they further <hi>lay before Him ſuch Me<g ref="char:EOLhyphen"/>thods and Rules in Government as are neceſſary for you</hi>; and when we are com<g ref="char:EOLhyphen"/>manded to <hi>ask,</hi> we are aſſured that ſo <hi>juſt</hi> and <hi>wiſe</hi> a Prince as our Sovereign
-<pb n="4" facs="tcp:039235_0005_101808EE197420E8"/>
+<pb n="4" facs="unknown:039235_0005_101808EE197420E8"/>
                <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap>whom we ſerve) is, doth not mean to <hi>deny.</hi> It greatly imports us there<g ref="char:EOLhyphen"/>
